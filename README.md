@@ -15,23 +15,28 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
-  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="mailto:hongjaewon0428@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+    
+    <a href="mailto:hongjaewon0428@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.instagram.com/hxng.jxwn">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    
+    <a href="https://www.instagram.com/hxng.jxwn" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
+    
   </div>
-  <br>
-  <div align="center"> </div>
+  <br> 
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의_깃허브_아이디&layout=compact&theme=dark" />
-  </div>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jjaewon-Hong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaewon-Hong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  
+</div>
 </div>
